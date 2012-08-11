@@ -1,0 +1,7 @@
+[06-Aug-2012 14:42:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /srv/blog/wp-content/themes/pagelines/includes/class.render.css.php on line 652
+[06-Aug-2012 14:45:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /srv/blog/wp-content/themes/pagelines/includes/class.render.css.php on line 652
+[06-Aug-2012 14:47:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /srv/blog/wp-content/themes/pagelines/includes/class.render.css.php on line 652
+[08-Aug-2012 16:07:54 UTC] PHP Warning:  include(../responsive/index.php): failed to open stream: No such file or directory in /srv/blog/wp-content/themes/responsive-trustious/home.php on line 1
+[08-Aug-2012 16:07:54 UTC] PHP Warning:  include(): Failed opening '../responsive/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /srv/blog/wp-content/themes/responsive-trustious/home.php on line 1
+[08-Aug-2012 16:10:03 UTC] PHP Warning:  include(../single.php): failed to open stream: No such file or directory in /srv/blog/wp-content/themes/responsive-trustious/home.php on line 1
+[08-Aug-2012 16:10:03 UTC] PHP Warning:  include(): Failed opening '../single.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /srv/blog/wp-content/themes/responsive-trustious/home.php on line 1

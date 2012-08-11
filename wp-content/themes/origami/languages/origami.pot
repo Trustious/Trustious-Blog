@@ -1,0 +1,397 @@
+# Copyright SiteOrigin (c) 2012
+# This file is distributed under the GNU General Public License 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: origami 1.2.2\n"
+"POT-Creation-Date: 2012-07-24T13:48:31+02:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+msgid "Not Found"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Daily Archives: %s"
+msgstr ""
+
+msgid "Monthly Archives: %s"
+msgstr ""
+
+msgid "Yearly Archives: %s"
+msgstr ""
+
+msgid "Posts Tagged: %s"
+msgstr ""
+
+msgid "Posts in Category: %s"
+msgstr ""
+
+msgid "Search Results for: %s"
+msgstr ""
+
+msgid "Blog Archives"
+msgstr ""
+
+msgid "Posts By %s"
+msgstr ""
+
+msgid "Password Required"
+msgstr ""
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Comments are Disabled"
+msgstr ""
+
+msgid "dismiss"
+msgstr ""
+
+msgid "Hi! I'm Greg Priday from SiteOrigin."
+msgstr ""
+
+msgid "I hope you enjoy my WordPress theme."
+msgstr ""
+
+msgid "Please follow me on Twitter and Facebook for updates."
+msgstr ""
+
+msgid "Premium Upgrade"
+msgstr ""
+
+msgid "There's a premium version of %s available, <a href='%s'>find out more</a>."
+msgstr ""
+
+msgid "After you pay for %s Premium, we'll email you a download link and an order number to your <strong>PayPal email address</strong>. "
+msgstr ""
+
+msgid "You can install manually, or enter your order number here to enable an automatic upgrade."
+msgstr ""
+
+msgid "Order Number"
+msgstr ""
+
+msgid "Enable Upgrade"
+msgstr ""
+
+msgid "Already Paid?"
+msgstr ""
+
+msgid "There was a problem contacting our validation servers."
+msgstr ""
+
+msgid "Please try again later, or upgrade manually using the ZIP file we sent you."
+msgstr ""
+
+msgid "We've validated your order number."
+msgstr ""
+
+msgid "You can update now, or later on your <a href=\"%s\">Themes page</a>."
+msgstr ""
+
+msgid "This update will unlock all the premium features."
+msgstr ""
+
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+msgid "Update Theme"
+msgstr ""
+
+msgid "We  <strong>invalid</strong>."
+msgstr ""
+
+msgid "Please try again, or upgrade manually using the ZIP file we sent you."
+msgstr ""
+
+msgid "Note that you need a valid order number to receive automatic updates in the future."
+msgstr ""
+
+msgid "Check out the <a href='%s'>documentation</a> for %s. "
+msgstr ""
+
+msgid "Please like and follow SiteOrigin to hear about my new WordPress freebies."
+msgstr ""
+
+msgid "Theme Settings"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Please read %s's <a href='%s'>Documentation</a>."
+msgstr ""
+
+msgid "Theme Documentation"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "<a href=\"%s\">Premium version</a> only"
+msgstr ""
+
+msgid "Unknown Field Type"
+msgstr ""
+
+msgid "Premium Theme Support"
+msgstr ""
+
+msgid "Need some theme support? Just fill out a <a href='%s'>support request</a> and we'll get back to you. "
+msgstr ""
+
+msgid "Theme Support"
+msgstr ""
+
+msgid "We offer email support to everyone who upgrades to <a href=\"%s\">%s Premium</a>."
+msgstr ""
+
+msgid "We still love you, even if you're using %s Free. We just want to offer the best service possible to the fine people who have purchased our Premium themes."
+msgstr ""
+
+msgid "%s Order Code"
+msgstr ""
+
+msgid "Order Code"
+msgstr ""
+
+msgid "Find your order code in your original download email from SiteOrigin"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Link Color"
+msgstr ""
+
+msgid "Page Border Color"
+msgstr ""
+
+msgid "Main page border color"
+msgstr ""
+
+msgid "Footer Copyright Color"
+msgstr ""
+
+msgid "Footer Copyright Link Color"
+msgstr ""
+
+msgid "Site Text"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "404 Message"
+msgstr ""
+
+msgid "No Search Results"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Display Post Author"
+msgstr ""
+
+msgid "Display Comment Count"
+msgstr ""
+
+msgid "Use Columns"
+msgstr ""
+
+msgid "Display featured Image"
+msgstr ""
+
+msgid "Featured image above posts"
+msgstr ""
+
+msgid "Header Search"
+msgstr ""
+
+msgid "Search input in header"
+msgstr ""
+
+msgid "Footer Attribution Link"
+msgstr ""
+
+msgid "Remove the \"theme by SiteOrigin\" in your footer."
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Ajax Comments"
+msgstr ""
+
+msgid "Users can comment without leaving the page."
+msgstr ""
+
+msgid "Responsive Layout"
+msgstr ""
+
+msgid "Responsive Footer Widgets"
+msgstr ""
+
+msgid "Widgets collapse for mobile devices."
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "Share Post"
+msgstr ""
+
+msgid "Display post sharing on the single post pages."
+msgstr ""
+
+msgid "Copyright %s"
+msgstr ""
+
+msgid "We couldn't find what you were looking for."
+msgstr ""
+
+msgid "No results for your query."
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Page %s"
+msgstr ""
+
+msgid "Powered By %s"
+msgstr ""
+
+msgid "Theme By %s"
+msgstr ""
+
+msgid "Newer Entries"
+msgstr ""
+
+msgid "Older Entries"
+msgstr ""
+
+msgid "On %s"
+msgstr ""
+
+msgid "by %s"
+msgstr ""
+
+msgid "With"
+msgstr ""
+
+msgid "<strong>%u</strong> Comments"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Continue Reading"
+msgstr ""
+
+msgid "Recent Posts"
+msgstr ""
+
+msgid "By Year"
+msgstr ""
+
+msgid "By Month"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "%s adds any custom CSS you enter here into your site's header. "
+msgstr ""
+
+msgid "These changes will persist across updates so it's best to make all your changes here. "
+msgstr ""
+
+msgid "Contact <a href='%s' target='_blank'>SiteOrigin Support</a> for help with making edits. "
+msgstr ""
+
+msgid "Changes apply to %s and its child themes"
+msgstr ""
+
+msgid "Save CSS"
+msgstr ""
+
+msgid "like"
+msgstr ""
+
+msgid "Display Social Sharing"
+msgstr ""
+
+msgid "Display post sharing on post pages."
+msgstr ""
+
+msgid "Twitter Username"
+msgstr ""
+
+msgid "Upgrade To Origami Premium"
+msgstr ""
+
+msgid "If you've enjoyed using Origami, you'll going to love Origami Premium. It's a robust upgrade to Origami that gives you loads of cool features and email support. At just <strong>$5</strong>, it's a cost effective way to give your site a professional edge."
+msgstr ""
+
+msgid "If you're not delighted with Origami Premium, I'll give you a full refund"
+msgstr ""
+
+msgid "Remember, if you're not satisfied, you get your money back"
+msgstr ""
+
+msgid "Email Support"
+msgstr ""
+
+msgid "Need help setting up Origami? Upgrading to Origami Premium gives you access to email support for answers to any questions you can't find in the theme documentation."
+msgstr ""
+
+msgid "Remove Attribution Links"
+msgstr ""
+
+msgid "Origami premium gives you the option to easily remove the \"Powered by WordPress, Theme by SiteOrigin\" text from your footer. "
+msgstr ""
+
+msgid "The final puzzle piece in making Origami truly responsive. Origami Premium has footer widgets that collapse below each other on narrower resolution devices."
+msgstr ""
+
+msgid "Want to keep the conversation flowing? Ajax comments means your visitors can comment without reloading your page. So commenting wont interrupt a video or lose their position in one of your galleries."
+msgstr ""
+
+msgid "Social Sharing"
+msgstr ""
+
+msgid "Origami Premium includes social sharing for Facebook, Twitter and Google Plus. They fit right into the clean design of Origami."
+msgstr ""
+
+msgid "CSS Editor"
+msgstr ""
+
+msgid "A simple CSS editor that lets you easily add code that changes the look of Origami. You can count on our support staff to help you with CSS snippets to get the look you're after. Best of all, your changes will persist across updates."
+msgstr ""
+
+msgid "Continued Updates"
+msgstr ""
+
+msgid "You'll get continued updates, ensuring that your Origami powered site keeps on working with the latest version of WordPress for years to come."
+msgstr ""

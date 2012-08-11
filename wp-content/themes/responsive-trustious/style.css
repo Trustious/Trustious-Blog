@@ -1,0 +1,12 @@
+/*
+Theme Name: Responsive (Trustious Edition)
+Description: Trustious Theme based on Responsive
+Author: kamasheto
+Template: responsive
+*/
+
+@import url("../responsive/style.css");
+
+#header #logo img {
+  width: 300px;
+}
